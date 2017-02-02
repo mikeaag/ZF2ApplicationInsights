@@ -1,5 +1,5 @@
 {
-    "name": "mikeaag/ZF2ApplicationInsights",
+    "name": "mikeaag/zf2applicationinsights",
     "description": "ZF2 Module for Microsoft Azure Application Insights",
     "keywords": ["Azure", "ApplicationInsights", "Application Insights", "Microsoft", "ZF2", "Zend Framework 2"],
     "homepage": "https://github.com/mikeaag/ZF2ApplicationInsights",
